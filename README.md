@@ -4,14 +4,14 @@
 
 This project aims to develop a non-invasive, affordable, and accurate method for detecting early-stage dementia and Alzheimer's disease in elderly patients. By using Fast Fourier-transformed (FFT) EEG signals combined with a deep learning classification network, we seek to identify subtle changes in brain activity that could be indicative of dementia, offering an alternative to invasive and costly MRI scans.
 
-The project envisions a monthly subscription model, where elderly patients or caregivers can opt for regular EEG-based check-ins, with the option for further analysis if high-risk indicators are detected.
+We aim to process MRI data from an EEG headset, namely the Neurosity Crown, and output a patient's risk factor from a classification deep learning network.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Features](#features)
-- [Referenced Works] (#references)
+- [Referenced Works](referenced-works)
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
